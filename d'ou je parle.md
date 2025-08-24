@@ -3,8 +3,6 @@ title: "d'où je parle"
 order: 1
 in_menu: true
 ---
-## D'où je parle
-
 en août 2025,
 
 je m'appelle David Bruant, j'ai été socialisé et suis perçu comme un homme blanc (et je me sens non-binaire), j'ai environ 40 ans, je vis en France métropolitaine
