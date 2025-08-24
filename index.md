@@ -1,8 +1,21 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
+---
+# Argent émancipation
+
+J'ai envie de parler d'argent d'une manière dont je n'entends pas parler d'argent
+
+J'ai envie de sortir des banalités des clichés, et aussi de l'ornière
+
+J'ai envie d'entendre des mots sur l'argent en cohérence avec les luttes politiques auxquelles je participe (contre le patricarcat, le racisme, la destruction de la biosphère, le validisme... et évidement le capitalisme ahahah)
+
 ---
 
-# L'Échappée Belle
+J'adorerais vivre dans un monde où l'argent n'a pas autant de place dans nos vies
+et je ne crois pas que ça arrivera de mon vivant, alors j'ai envie qu'on le vive mieux
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+D'autres personnes parlent déjà bien de macro-économie, de politique économique
+
+J'ai envie de parler de stratégie individuelles, familiales et collectives à petite échelle pour mieux vivre l'argent 
