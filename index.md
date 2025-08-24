@@ -19,3 +19,11 @@ et je ne crois pas que ça arrivera de mon vivant, alors j'ai envie qu'on le viv
 D'autres personnes parlent déjà bien de macro-économie, de politique économique
 
 J'ai envie de parler de stratégie individuelles, familiales et collectives à petite échelle pour mieux vivre l'argent 
+
+<!--
+Écrire sur le patrimoine
+Sur l'héritage 
+Pourquoi on amasse de l'argent ?
+Devenir riche moralement
+Exploitation locative
+--> 
